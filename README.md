@@ -33,7 +33,13 @@ Game & Watch (justinbug2)
 
 Link (GudPiggeh)
 
+Zelda (Awesomeness)
+
 Ganondorf (Mattshark)
+
+King Dedede (WarioTails358)
+
+Little Mac (justinbug2)
 
 Jigglypuff (GudPiggeh)
 
@@ -54,9 +60,3 @@ Ryu (Mattshark)
 Cloud (justinbug2)
 
 Corrin (justinbug2)
-
-LittleMac (justinbug2)
-
-Zelda (Awesomeness)
-
-King Dedede (WarioTails358)
